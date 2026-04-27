@@ -1,0 +1,433 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.navigation3:navigation3-runtime-android:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\74db42d381288013f39fbaea7cc51cd2\workspace\transformed\navigation3-runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation3:navigation3-ui-android:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\01b387f06f056e5ca25448202332c9a2\workspace\transformed\navigation3-ui\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0b8b56540a523f6508bcf89ba7365186\workspace\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc133190443e79c72705743a9d6fc6ba\workspace\transformed\navigationevent\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.2] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b6094c994b7694b9cf93d00112ea3bef\workspace\transformed\navigationevent-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\24bb53a30cd687a15925aeb3b2a20b2e\workspace\transformed\coil-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\96b6fcf0525808fe5d1c1bdf288f056f\workspace\transformed\coil-compose-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\84bb66379417c4b40f295fccc8a3d934\workspace\transformed\ui-tooling-data\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9f6f41a8d18bcc4179123278d054507e\workspace\transformed\ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\411480cf4c58d793ab29fcc689b12a90\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f6f204cf7fa78d59b77beea10e4c0062\workspace\transformed\foundation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9857609d2e1c8c9c5613debb7482bd78\workspace\transformed\foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a00d176b9ab3f799152e0b32e2512aaf\workspace\transformed\animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fac632d4de50e8e930998a1a64098ea5\workspace\transformed\ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\12eaa3358df48a47a12a4d2f1f4a7c4a\workspace\transformed\ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ddbaa74ff411ee1f4db35551ef0536df\workspace\transformed\ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b9a7131fabecd810354911f213f237f0\workspace\transformed\ui-graphics\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\69e67a3b299676a453dcb8a28346169a\workspace\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d2c90b7d4af670b1268c5636d472eeab\workspace\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\af84fcd3c718188fffbe4fe58e91f1dd\workspace\transformed\animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3e54b7bba5bdca519ff99d78eca39e13\workspace\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.36.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\772fa3a6b78d415c0d535512374f0982\workspace\transformed\accompanist-drawablepainter-0.36.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\20f370f7fb4a2c828560fe2faca30df5\workspace\transformed\ui\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\8b5d17d3c2ab743a09fee2b4d74fa347\workspace\transformed\activity-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc0713bac8e7e7fad755ee0cb8689357\workspace\transformed\activity-1.13.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9144757d11bba10cbb09b3c978fae92d\workspace\transformed\activity-compose-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a0842824d2d2163caf48950cdbaad793\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.6.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b70845773d984a224a7f3a8d7b1de324\workspace\transformed\transition-1.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-core-android:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\01ceeef52064e01cc26fc81e8ceb068a\workspace\transformed\window-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [io.coil-kt.coil3:coil-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f80cda5504d1177145cae14debab6043\workspace\transformed\coil-release\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9366103eaf9fa091ab639fad9645d78d\workspace\transformed\coil-network-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt.coil3:coil-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f1b27f1f868b179e0e92a993b3a8b5f2\workspace\transformed\coil-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\84f5d2068816731e4393c33b6d5951f3\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ad99c5c2a564d7ce28d7a9c3c562bef6\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0c8848d29c724ea502fbffbda079dafa\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\57f988ba551024cbc71f4db8261fac99\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d350597d68b9d882fa032481c7244d37\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ca99206f3a5ba55feb25112f785db4ab\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9305b6e664ff7ab774ec4427e0aea6e9\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d7f40b72445b5efaa9e8c71d446e4568\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ce97ed0eecc1ed9ee1d837043b306b6a\workspace\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\5bb20ededdfdb84b6727bb52b24b8877\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\dfdf87e2b6eb96478c77ebb3a3ce1565\workspace\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a6e81e34179329ce9c525162fabcba34\workspace\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7c82f384f2686b2241cd74c25873294d\workspace\transformed\lifecycle-viewmodel\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f847ef9ff421fe915b1010d64e1ff1f6\workspace\transformed\savedstate-ktx-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0c0021f29b6ba4edc5f1a1a136559e22\workspace\transformed\savedstate\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ea260168e362573c5f09fc7076021565\workspace\transformed\savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f357e71d5fe3012d985a5234776151bd\workspace\transformed\runtime-retain\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b39edf723d23de7bce7acffd7bc5f9e3\workspace\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3477f555185c829658db20b183ce6f55\workspace\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3c4b942b10c317d2627464034a132a88\workspace\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\221c4780faa0ce09b163cf08e4320c50\workspace\transformed\lifecycle-runtime-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0d0150ac865db058abc8fe3d922082aa\workspace\transformed\lifecycle-runtime\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7e247fe90d8acb47a488cb506fb62f8d\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1f50c947190e7db701a3adf63c0a1878\workspace\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\37899993979b988f4c7e2ca7b587f743\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\79512b45b4e7a4c5de0dd51e0d4fde66\workspace\transformed\core-ktx-1.18.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f3990d154e1e16bb879740abb4379697\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ad4b5cad36676f80f22980f6a79b4d49\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\978fd56b241e5238d1759e585a4bcfd9\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df1d28512e9f616941a2709b09272707\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df6af2b51d389ea5b9cdb654fba10888\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\8b345b4105e93863f64da64238370875\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\cb55ffd187fb8075a035ea9bb7b781e7\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\2b237b24f3b105fc8187f48da421f23b\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc30cb589323ec4b24867d344e9e509c\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ac4db6153a86e9458cd4c271873478a6\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:7:5-27:19
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df6af2b51d389ea5b9cdb654fba10888\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df6af2b51d389ea5b9cdb654fba10888\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:15:9-45
+	android:dataExtractionRules
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.example.parcial.MainActivity
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation3:navigation3-runtime-android:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\74db42d381288013f39fbaea7cc51cd2\workspace\transformed\navigation3-runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation3:navigation3-runtime-android:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\74db42d381288013f39fbaea7cc51cd2\workspace\transformed\navigation3-runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation3:navigation3-ui-android:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\01b387f06f056e5ca25448202332c9a2\workspace\transformed\navigation3-ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation3:navigation3-ui-android:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\01b387f06f056e5ca25448202332c9a2\workspace\transformed\navigation3-ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0b8b56540a523f6508bcf89ba7365186\workspace\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0b8b56540a523f6508bcf89ba7365186\workspace\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc133190443e79c72705743a9d6fc6ba\workspace\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.2] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc133190443e79c72705743a9d6fc6ba\workspace\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.2] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b6094c994b7694b9cf93d00112ea3bef\workspace\transformed\navigationevent-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.2] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b6094c994b7694b9cf93d00112ea3bef\workspace\transformed\navigationevent-compose\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\24bb53a30cd687a15925aeb3b2a20b2e\workspace\transformed\coil-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\24bb53a30cd687a15925aeb3b2a20b2e\workspace\transformed\coil-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\96b6fcf0525808fe5d1c1bdf288f056f\workspace\transformed\coil-compose-core-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-compose-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\96b6fcf0525808fe5d1c1bdf288f056f\workspace\transformed\coil-compose-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\84bb66379417c4b40f295fccc8a3d934\workspace\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\84bb66379417c4b40f295fccc8a3d934\workspace\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9f6f41a8d18bcc4179123278d054507e\workspace\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9f6f41a8d18bcc4179123278d054507e\workspace\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\411480cf4c58d793ab29fcc689b12a90\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\411480cf4c58d793ab29fcc689b12a90\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f6f204cf7fa78d59b77beea10e4c0062\workspace\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f6f204cf7fa78d59b77beea10e4c0062\workspace\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9857609d2e1c8c9c5613debb7482bd78\workspace\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9857609d2e1c8c9c5613debb7482bd78\workspace\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a00d176b9ab3f799152e0b32e2512aaf\workspace\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a00d176b9ab3f799152e0b32e2512aaf\workspace\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fac632d4de50e8e930998a1a64098ea5\workspace\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fac632d4de50e8e930998a1a64098ea5\workspace\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\12eaa3358df48a47a12a4d2f1f4a7c4a\workspace\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\12eaa3358df48a47a12a4d2f1f4a7c4a\workspace\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ddbaa74ff411ee1f4db35551ef0536df\workspace\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ddbaa74ff411ee1f4db35551ef0536df\workspace\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b9a7131fabecd810354911f213f237f0\workspace\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b9a7131fabecd810354911f213f237f0\workspace\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\69e67a3b299676a453dcb8a28346169a\workspace\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\69e67a3b299676a453dcb8a28346169a\workspace\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d2c90b7d4af670b1268c5636d472eeab\workspace\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d2c90b7d4af670b1268c5636d472eeab\workspace\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\af84fcd3c718188fffbe4fe58e91f1dd\workspace\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\af84fcd3c718188fffbe4fe58e91f1dd\workspace\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3e54b7bba5bdca519ff99d78eca39e13\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3e54b7bba5bdca519ff99d78eca39e13\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.36.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\772fa3a6b78d415c0d535512374f0982\workspace\transformed\accompanist-drawablepainter-0.36.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.36.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\772fa3a6b78d415c0d535512374f0982\workspace\transformed\accompanist-drawablepainter-0.36.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\20f370f7fb4a2c828560fe2faca30df5\workspace\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\20f370f7fb4a2c828560fe2faca30df5\workspace\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\8b5d17d3c2ab743a09fee2b4d74fa347\workspace\transformed\activity-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\8b5d17d3c2ab743a09fee2b4d74fa347\workspace\transformed\activity-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc0713bac8e7e7fad755ee0cb8689357\workspace\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc0713bac8e7e7fad755ee0cb8689357\workspace\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9144757d11bba10cbb09b3c978fae92d\workspace\transformed\activity-compose-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9144757d11bba10cbb09b3c978fae92d\workspace\transformed\activity-compose-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a0842824d2d2163caf48950cdbaad793\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a0842824d2d2163caf48950cdbaad793\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.6.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b70845773d984a224a7f3a8d7b1de324\workspace\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b70845773d984a224a7f3a8d7b1de324\workspace\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\01ceeef52064e01cc26fc81e8ceb068a\workspace\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\01ceeef52064e01cc26fc81e8ceb068a\workspace\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt.coil3:coil-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f80cda5504d1177145cae14debab6043\workspace\transformed\coil-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f80cda5504d1177145cae14debab6043\workspace\transformed\coil-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9366103eaf9fa091ab639fad9645d78d\workspace\transformed\coil-network-core-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-network-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9366103eaf9fa091ab639fad9645d78d\workspace\transformed\coil-network-core-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f1b27f1f868b179e0e92a993b3a8b5f2\workspace\transformed\coil-core-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt.coil3:coil-core-android:3.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f1b27f1f868b179e0e92a993b3a8b5f2\workspace\transformed\coil-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\84f5d2068816731e4393c33b6d5951f3\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\84f5d2068816731e4393c33b6d5951f3\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ad99c5c2a564d7ce28d7a9c3c562bef6\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ad99c5c2a564d7ce28d7a9c3c562bef6\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0c8848d29c724ea502fbffbda079dafa\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0c8848d29c724ea502fbffbda079dafa\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\57f988ba551024cbc71f4db8261fac99\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\57f988ba551024cbc71f4db8261fac99\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d350597d68b9d882fa032481c7244d37\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d350597d68b9d882fa032481c7244d37\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ca99206f3a5ba55feb25112f785db4ab\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ca99206f3a5ba55feb25112f785db4ab\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9305b6e664ff7ab774ec4427e0aea6e9\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9305b6e664ff7ab774ec4427e0aea6e9\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d7f40b72445b5efaa9e8c71d446e4568\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\d7f40b72445b5efaa9e8c71d446e4568\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ce97ed0eecc1ed9ee1d837043b306b6a\workspace\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ce97ed0eecc1ed9ee1d837043b306b6a\workspace\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\5bb20ededdfdb84b6727bb52b24b8877\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\5bb20ededdfdb84b6727bb52b24b8877\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\dfdf87e2b6eb96478c77ebb3a3ce1565\workspace\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\dfdf87e2b6eb96478c77ebb3a3ce1565\workspace\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a6e81e34179329ce9c525162fabcba34\workspace\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a6e81e34179329ce9c525162fabcba34\workspace\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7c82f384f2686b2241cd74c25873294d\workspace\transformed\lifecycle-viewmodel\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7c82f384f2686b2241cd74c25873294d\workspace\transformed\lifecycle-viewmodel\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f847ef9ff421fe915b1010d64e1ff1f6\workspace\transformed\savedstate-ktx-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f847ef9ff421fe915b1010d64e1ff1f6\workspace\transformed\savedstate-ktx-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0c0021f29b6ba4edc5f1a1a136559e22\workspace\transformed\savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0c0021f29b6ba4edc5f1a1a136559e22\workspace\transformed\savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ea260168e362573c5f09fc7076021565\workspace\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ea260168e362573c5f09fc7076021565\workspace\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f357e71d5fe3012d985a5234776151bd\workspace\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f357e71d5fe3012d985a5234776151bd\workspace\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b39edf723d23de7bce7acffd7bc5f9e3\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\b39edf723d23de7bce7acffd7bc5f9e3\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3477f555185c829658db20b183ce6f55\workspace\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3477f555185c829658db20b183ce6f55\workspace\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3c4b942b10c317d2627464034a132a88\workspace\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\3c4b942b10c317d2627464034a132a88\workspace\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\221c4780faa0ce09b163cf08e4320c50\workspace\transformed\lifecycle-runtime-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\221c4780faa0ce09b163cf08e4320c50\workspace\transformed\lifecycle-runtime-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0d0150ac865db058abc8fe3d922082aa\workspace\transformed\lifecycle-runtime\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\0d0150ac865db058abc8fe3d922082aa\workspace\transformed\lifecycle-runtime\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7e247fe90d8acb47a488cb506fb62f8d\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7e247fe90d8acb47a488cb506fb62f8d\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1f50c947190e7db701a3adf63c0a1878\workspace\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1f50c947190e7db701a3adf63c0a1878\workspace\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\37899993979b988f4c7e2ca7b587f743\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\37899993979b988f4c7e2ca7b587f743\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\79512b45b4e7a4c5de0dd51e0d4fde66\workspace\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\79512b45b4e7a4c5de0dd51e0d4fde66\workspace\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f3990d154e1e16bb879740abb4379697\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\f3990d154e1e16bb879740abb4379697\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ad4b5cad36676f80f22980f6a79b4d49\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ad4b5cad36676f80f22980f6a79b4d49\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\978fd56b241e5238d1759e585a4bcfd9\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\978fd56b241e5238d1759e585a4bcfd9\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df1d28512e9f616941a2709b09272707\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df1d28512e9f616941a2709b09272707\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df6af2b51d389ea5b9cdb654fba10888\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\df6af2b51d389ea5b9cdb654fba10888\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\8b345b4105e93863f64da64238370875\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\8b345b4105e93863f64da64238370875\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\cb55ffd187fb8075a035ea9bb7b781e7\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\cb55ffd187fb8075a035ea9bb7b781e7\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\2b237b24f3b105fc8187f48da421f23b\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\2b237b24f3b105fc8187f48da421f23b\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc30cb589323ec4b24867d344e9e509c\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\fc30cb589323ec4b24867d344e9e509c\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ac4db6153a86e9458cd4c271873478a6\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\ac4db6153a86e9458cd4c271873478a6\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\Tenorio\parcial_moviles\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1ad260066284abd6bdb86fcc51e3a7ab\workspace\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\9381753edeb557a623e97daef9c47454\workspace\transformed\ui-test-manifest-1.10.0\AndroidManifest.xml:24:13-63
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\942255f613d1970ebf5305884a3ee0be\workspace\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\a115da4f6bc6514321625c7b6790e52d\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\26d8a64f4867ada59231d3a319d40ed8\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+permission#com.example.parcial.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.parcial.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\bac5261e941a4a1034f10634386029a1\workspace\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\7a9f05f65fc9918b471c5dedca583038\workspace\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] E:\Users\Tenorio\GradleData\caches\9.1.0\transforms\1674289024ef826813ba1e50d466a277\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:50:25-92

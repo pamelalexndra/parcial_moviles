@@ -1,0 +1,11 @@
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\MainActivity.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\model\Producto.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\ui\theme\Color.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\ui\screens\MiOrden.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\navigation\MainNavigation.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\navigation\Routes.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\ui\screens\Menu.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\data\DataProducto.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\ui\theme\Theme.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\components\Card.kt
+E:\Users\Tenorio\parcial_moviles\app\src\main\java\com\example\parcial\ui\theme\Type.kt
