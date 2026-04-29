@@ -53,6 +53,7 @@ dependencies {
     implementation(libs.androidx.navigation3.ui)
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.coil.compose)
+    implementation("androidx.navigation:navigation-compose:2.8.3")
     implementation(libs.androidx.espresso.core)
     implementation(libs.androidx.material3)
     testImplementation(libs.junit)
