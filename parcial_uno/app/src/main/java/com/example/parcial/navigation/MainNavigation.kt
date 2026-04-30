@@ -1,7 +1,7 @@
 package com.example.parcial.navigation
 
 import androidx.compose.runtime.Composable
-import androidx.navigation3.runtime.NavEntry
+import androidx.navigation3.runtime.entryProvider
 import androidx.navigation3.runtime.rememberNavBackStack
 import androidx.navigation3.ui.NavDisplay
 import com.example.parcial.modelo.ItemOrder
@@ -21,23 +21,21 @@ fun MainNavigation(
     NavDisplay(
         backStack = backStack,
         onBack = { backStack.removeLastOrNull() },
-        entryProvider = { ruta ->
-            when (ruta as Routes) {
-                is Routes.Menu -> NavEntry(ruta) {
-                    MenuScreen(
-                        orden = orden,
-                        onAgregarProducto = onAgregar,
-                        onNavigateToOrden = { backStack.add(Routes.MiOrden) }
-                    )
-                }
-                is Routes.MiOrden -> NavEntry(ruta) {
-                    MiOrdenScreen(
-                        orden = orden,
-                        onEliminarProducto = onEliminar,
-                        onConfirmarOrden = onLimpiar,
-                        onNavigateBack = { backStack.removeLastOrNull() }
-                    )
-                }
+        entryProvider = entryProvider {
+            entry<Routes.Menu> {
+                MenuScreen(
+                    orden = orden,
+                    onAgregarProducto = onAgregar,
+                    onNavigateToOrden = { backStack.add(Routes.MiOrden) }
+                )
+            }
+            entry<Routes.MiOrden> {
+                MiOrdenScreen(
+                    orden = orden,
+                    onEliminarProducto = onEliminar,
+                    onConfirmarOrden = onLimpiar,
+                    onNavigateBack = { backStack.removeLastOrNull() }
+                )
             }
         }
     )
